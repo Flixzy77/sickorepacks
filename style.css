@@ -1,0 +1,287 @@
+._1920-w-light,
+._1920-w-light * {
+  box-sizing: border-box;
+}
+._1920-w-light {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    linear-gradient(
+      137.38deg,
+      rgba(182, 53, 156, 1) 0%,
+      rgba(239, 10, 106, 1) 100%
+    ),
+    linear-gradient(to left, #ffffff, #ffffff);
+  height: 2086.55px;
+  position: relative;
+}
+.header {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 142, 255, 1) 0%,
+    rgba(140, 204, 255, 1) 35.62820553779602%,
+    rgba(255, 255, 255, 1) 49.235063791275024%,
+    rgba(140, 204, 255, 1) 58.99999737739563%,
+    rgba(0, 142, 255, 1) 100%
+  );
+  width: 1920px;
+  height: 2011.55px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 0px;
+}
+.container {
+  width: 1320px;
+  height: 594.55px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 202px;
+}
+.heading-2 {
+  height: 201.56px;
+  position: absolute;
+  right: 12px;
+  left: 12px;
+  top: 392.98px;
+}
+.repacks-1 {
+  width: 481px;
+  height: 62px;
+  position: absolute;
+  left: 419.26px;
+  top: 166.85px;
+  object-fit: cover;
+}
+.link {
+  width: 186px;
+  height: 276px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 254.85px;
+}
+.schedule-20-i-20-cover-jpg {
+  border-radius: 10px;
+  width: 180px;
+  height: 270px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+  box-shadow: 0px 0px 20px 0px rgba(0, 119, 255, 1);
+  overflow: hidden;
+  object-fit: cover;
+}
+.bez-nazwy-2 {
+  width: 915px;
+  height: 63px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 896.93px);
+  object-fit: cover;
+}
+.welcome-to-sicko-repacks-safe-secure-downloads-quick-easy-access-same-quality-smaller-size {
+  color: #ffffff;
+  text-align: center;
+  font-family: "ConcielianBold-Bold", sans-serif;
+  font-size: 28px;
+  line-height: 33.6px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 194.85px;
+  width: 592px;
+  height: 99px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.link2 {
+  width: 186px;
+  height: 276px;
+  position: absolute;
+  left: calc(50% - -372px);
+  top: 880.55px;
+}
+.heading-1 {
+  height: 192px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 1238.55px;
+}
+.upcoming-repacks {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 47.625px;
+  line-height: 48px;
+  letter-spacing: 4px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 128px;
+  width: 674.62px;
+  height: 79px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.separator {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0px 0px 0px;
+  width: 440px;
+  height: 4px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 1446.55px;
+}
+.new-repacks {
+  color: #ffffff;
+  text-align: center;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 27px;
+  letter-spacing: 1px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 1494.55px;
+  width: 95.05px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vr-games-online-fix-games-nsfw-games-secret {
+  color: #ffffff;
+  text-align: center;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 27px;
+  letter-spacing: 1px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 84.84px);
+  top: 1548.55px;
+  width: 203.6px;
+  height: 78px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.updating-repacks {
+  color: #ffffff;
+  text-align: center;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: 1px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 1701.55px;
+  width: 120.06px;
+  height: 21px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.all-of-them-literally-all-of-them {
+  color: #ffffff;
+  text-align: center;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: 1px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 76.23px);
+  top: 1755.55px;
+  width: 182.94px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button {
+  background: linear-gradient(
+    106.31deg,
+    rgba(61, 153, 235, 1) 0%,
+    rgba(115, 189, 248, 1) 100%
+  );
+  border-radius: 6px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 215.89px;
+  height: 66px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - -843.78px);
+  box-shadow: 0px 0px 20px 0px rgba(255, 255, 255, 1);
+}
+.icon {
+  width: 17.15px;
+  height: 20px;
+  position: absolute;
+  left: 30px;
+  top: 44px;
+  transform: translate(0px, -20px);
+  overflow: visible;
+}
+.all-my-repacks {
+  color: #ffffff;
+  text-align: center;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 52.79px);
+  top: 18px;
+  width: 131.03px;
+  height: 31px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background {
+  background: linear-gradient(
+    92.24deg,
+    rgba(182, 53, 156, 1) 0%,
+    rgba(239, 10, 106, 1) 100%
+  );
+  height: 75px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 2011.55px;
+}
+.small-if-you-re-somehow-down-here-have-a-wonderful-morning-evening-night-3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: 1px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 27px;
+  width: 524.55px;
+  height: 21px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
